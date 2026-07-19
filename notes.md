@@ -1,21 +1,21 @@
 # Notes
-node - Javascript runtime environment
+# node - Javascript runtime environment
      - Server side programming
      - node -v
-node REPL (read, avaluate, print, loop)
+# node REPL (read, avaluate, print, loop)
      - node
-node files
+# node files
      - node script.js
-process
+# process
      - object provide info about the current node process
-process.argv 
+# process.argv 
      - returns array containing the command line arguments passed was launched
-module.exports
+# module.exports
      -require - a built in function to include external modules that exist in seperate files
-npm 
+# npm 
      - standard package manager
      - npm
-All commands:
+# All commands:
 
     access, adduser, audit, bugs, cache, ci,
     completion, config, dedupe, deprecate, diff,
@@ -28,16 +28,20 @@ All commands:
     set, shrinkwrap, star, stars, start, stop, team,
     test, token, undeprecate, uninstall, unpublish,
     unstar, update, version, view, whoami
-installing packages
+# installing packages
      - npm install package_name
      - node_modules folder contains every installed dependency for your project
      - package-lock.json = it records version of every installed dependency,including its sub- dependencies and their versions
-package.json
+# package.json
      - contains descriptive and metadata about project
      - npm install
-global
+# global
      - npm install -g package_name
      - npm link package_name
-require vs import
+# require vs import
      - we cant load only the pieces we need with require but with import , we cana selectively load only the pieces we need which can save memory
-    
+# express
+      - server side programming
+      - listen incoming request
+      - framework to make web app
+      - to match response with routes
