@@ -30,4 +30,6 @@ All commands:
     unstar, update, version, view, whoami
 installing packages
      - npm install package_name
-     - 
+     - node_modules folder contains every installed dependency for your project
+     - package-lock.json = it records version of every installed dependency,including its sub- dependencies and their versions
+     
