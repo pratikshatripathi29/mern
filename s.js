@@ -14,4 +14,3 @@
 // const fruits=require('./Fruits/index.js');
 // console.log(fruits);
 // console.log(fruits[0]);
-

@@ -35,4 +35,9 @@ installing packages
 package.json
      - contains descriptive and metadata about project
      - npm install
-     
+global
+     - npm install -g package_name
+     - npm link package_name
+require vs import
+     - we cant load only the pieces we need with require but with import , we cana selectively load only the pieces we need which can save memory
+    
