@@ -45,3 +45,7 @@
       - listen incoming request
       - framework to make web app
       - to match response with routes
+      - create web API 
+# ports 
+      - ports are logical endpoints of a network connection that are used to exchange info b/w web server and web client
+      
