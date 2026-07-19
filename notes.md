@@ -14,4 +14,20 @@ module.exports
      -require - a built in function to include external modules that exist in seperate files
 npm 
      - standard package manager
+     - npm
+All commands:
+
+    access, adduser, audit, bugs, cache, ci,
+    completion, config, dedupe, deprecate, diff,
+    dist-tag, docs, doctor, edit, exec, explain,
+    explore, find-dupes, fund, get, help, help-search,
+    init, install, install-ci-test, install-test, link,
+    ll, login, logout, ls, org, outdated, owner, pack,
+    ping, pkg, prefix, profile, prune, publish, query,
+    rebuild, repo, restart, root, run, sbom, search,
+    set, shrinkwrap, star, stars, start, stop, team,
+    test, token, undeprecate, uninstall, unpublish,
+    unstar, update, version, view, whoami
+installing packages
+     - npm install package_name
      - 
