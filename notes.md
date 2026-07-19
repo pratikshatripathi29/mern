@@ -48,4 +48,12 @@
       - create web API 
 # ports 
       - ports are logical endpoints of a network connection that are used to exchange info b/w web server and web client
-      
+# Routing
+      - 
+# nodemon
+      - to automatically restart server at changes
+      - npm i nodemon
+# path parameter
+      - path k sath variable
+# query strings
+      - A query string is data sent in the URL after a ?. It is commonly used to pass optional parameters to the server.
